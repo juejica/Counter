@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(171, 224, 97);
+}
+
+h1 {
+  text-align: center;
+  font-size: 100px;
+  font-family: Lemon Bird;
+  color: rgb(41, 85, 41);
+}
+
+#number {
+  display: block;
+  text-align: center;
+  font-size: 100px;
+  font-family: 'Lemon Bird';
+  margin-bottom: 50px;
+  margin-top: -40px;
+  color: rgb(41, 85, 41);
+}
+
+#button {
+  display: block;
+  text-align: center;
+  font-size: 15px;
+  font-family: 'Poppins';
+  padding: 10px;
+  margin: auto;
+  color: rgb(41, 85, 41);
+}
+
